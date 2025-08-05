@@ -1,6 +1,6 @@
 [
     {
-        "Time":  "2025-06-03T00:00:00Z",
+        "timestamp":  "2025-06-03T00:00:00Z",
         "Consumption":  2093,
         "Production":  "0",
         "Battery Charging":  "0",
